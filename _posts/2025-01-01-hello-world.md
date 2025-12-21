@@ -9,9 +9,7 @@ Welcome to my new blog 👋
 
 This is the first **Hello World** post, marking the beginning of a space dedicated to **AI, coding, and cybersecurity**.  
 
-## What you can expect here
-
-- Articles about AI   
+## What you can expect here   
 - Coding Projects
 - Cybersecurity Projects
 - CTFs Writeups  
